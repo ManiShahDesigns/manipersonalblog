@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Mani Shah - Web Developer`,
+    author: `Mani Shah`,
+    description: `My name is Mani Shah. I'm a web developer and this is my personal blog.`,
+    siteUrl: `https://manipersonalblog.netlify.app/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `mani_shahali`,
     },
   },
   plugins: [
@@ -78,7 +78,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/favicon.png`,
       },
     },
     {
