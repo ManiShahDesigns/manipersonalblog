@@ -9,7 +9,7 @@ import "../styles/index.css"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "My name is Mani 😊"
+    const siteTitle = "My name is Mani 😊 "
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -23,6 +23,7 @@ class IndexPage extends React.Component {
             "wordpress",
             "php",
             "web development",
+            "",
           ]}
         />
         <p>I'm a web developer who tries to learn something new every day.</p>
